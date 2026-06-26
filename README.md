@@ -6,7 +6,6 @@ O projeto de Conversor de Moedas foi desenvolvido em Python com o objetivo de cr
 ## Sobre o projeto ⚙️
 O conversor foi criado para auxiliar usuários que precisam transformar valores entre as moedas dólar e real de maneira simples e eficiente. O programa recebe o valor informado pelo usuário, aplica a cotação definida no sistema e exibe o resultado da conversão de forma organizada. Esse projeto contribuiu para o aprendizado sobre cálculos matemáticos, manipulação de dados e desenvolvimento de menus interativos, além de fortalecer a lógica de programação e a organização do código.
 
-<img width="883" height="102" alt="image" src="https://github.com/user-attachments/assets/b8f10b3b-f194-476f-b57d-b14a77574ddd" />
 
 
 ## Conclusão 🚀
